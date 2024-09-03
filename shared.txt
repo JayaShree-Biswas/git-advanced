@@ -1,2 +1,2 @@
-About me
-I am Jaya Shree Biswas, currently pursuing a Bachelor of Science in Information Technology with a focus on Data Science (BSc IT-DS). I'm passionate about technology and eager to deepen my knowledge in data science and software development. Right now, I’m working on a GitHub assignment given by Ayan Sir, which is an exciting opportunity to strengthen my understanding of version control and collaborative coding practices. Through this assignment, I’m learning how to effectively manage and document projects using GitHub, which I believe will be invaluable in my future career as a data scientist.
+i am jaya shree biswas 
+student of bsc in IT (DS)
